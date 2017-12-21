@@ -3,4 +3,4 @@ Jupyter Notebooks for Teaching Python
 
 ### Resources for Exercises
 
-* (http://www.practicepython.org)[Practice Python]
+* [Practice Python](http://www.practicepython.org)
