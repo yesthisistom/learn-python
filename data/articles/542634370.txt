@@ -1,0 +1,92 @@
+When people in several North Carolina precincts showed up to vote last November, weird things started to happen with the electronic systems used to check them in.
+
+"Voters were going in and being told that they had already voted — and they hadn't," recalls Allison Riggs, an attorney with the Southern Coalition for Social Justice.
+
+The electronic systems — known as poll books — also indicated that some voters had to show identification, even though they did not.
+
+Investigators later discovered the company that provided those poll books had been the target of a Russian cyberattack.
+
+There is no evidence the two incidents are linked, but the episode has revealed serious gaps in U.S. efforts to secure elections. Nine months later, officials are still trying to sort out the details.
+
+It all began shortly after polls opened at 6:30 a.m. on Election Day in Durham County. North Carolina was a key battleground state in a presidential race in which Russian interference was already a huge concern.
+
+Riggs was working at a nonpartisan voter hotline at the time and says the complaints poured in. Alarmed, she contacted election officials to find out what was going on.
+
+"We had roughly six precincts call and report computer-related issues," says Durham County Elections Director Derek Bowens. He says the problems were confined to a few laptops that the county used to run the poll book software.
+
+When people come in to vote, poll workers use the system to confirm they are properly registered and record that they've cast their ballots.
+
+At first, the county decided to switch to paper poll books in just those precincts to be safe. But Bowens says the State Board of Elections & Ethics Enforcement got involved "and determined that it would be better to have uniformity across all of our 57 precincts and we went paper poll books across the county."
+
+That move caused a whole new set of problems: Voting was delayed — up to an hour and a half — in a number of precincts as poll workers waited for new supplies. With paper poll books, they had to cut voters' names out and attach them to a form before people could get their ballots.
+
+"Precincts didn't have scissors, they didn't have tape, they didn't have glue sticks," says Riggs. As far as she was concerned, the solution was worse than the problem, and the state had overreacted.
+
+But Susan Greenhalgh, who is part of an election security group called Verified Voting, worried that authorities underreacted. She was monitoring developments in Durham County when she saw a news report that the problem poll books were supplied by a Florida company named VR Systems.
+
+"My stomach just dropped," says Greenhalgh.
+
+Earlier, she had seen news reports about the FBI having warned Florida election officials in September that Russians had tried to hack one of their vendor's computers. Greenhalgh also spoke with a local elections official  who was on the call with the FBI. VR Systems was rumored to be the company. 
+
+"I became really concerned that this might be a cyberattack, some sort of cyber event," says Greenhalgh.
+
+But she had trouble getting anyone's attention. Greenhalgh says a contact she had at the U.S. Department of Homeland Security was concerned but said there was little federal officials could do unless the state requested help.
+
+Obama administration officials, who knew that Russians had already tried to tamper with election systems in a number of states, had an elaborate plan in place to respond to any major Election Day disruptions or cyberattacks.
+
+Anthony Ferrante, who was in charge of cyber incident response at the National Security Council at the time, says federal authorities were monitoring voting on Nov. 8 from several command posts, including the one where he worked at the White House.
+
+Ferrante says Durham County's voting problems drew attention, and the federal government was ready to help — but only if the state asked. It was a delicate matter, because U.S. elections are run by state and local governments and there were already fears on the local level that the federal government might interfere in the name of security.
+
+"States were very adamant about declaring their independence from the federal government with respect to the 2016 election and, of course, we respected that," says Ferrante. "However, we wanted to make sure we were prepared and assets were available in the event that states did call us for assistance."
+
+North Carolina didn't call for aid. Instead, officials assured federal authorities that things were under control and that they had switched to the paper poll books.
+
+The problem was, on Election Day, the state was operating with limited information. It was unaware that Russian hackers had tried to break into VR Systems, which provided the poll books for 21 North Carolina counties.
+
+A leaked top secret National Security Agency report suggested the Russian cyberattack took place in August 2016. It didn't become public until June of this year — and state officials were never told about it.
+
+"We found out like everybody else did," says Josh Lawson, general counsel for the state board of elections.
+
+Lawson says the state first learned of the hack attempt when The Intercept, an online news site, published its story detailing Russian attempts to hack VR Systems. The leaked report said hackers then sent emails to local election offices that appeared to come from VR — but which actually contained malicious software.
+
+Lawson says there is no evidence that anyone in North Carolina received those fake emails. But, he adds, "It's our job to be paranoid about this."
+
+"When you have a leaked memorandum indicating that there may have been a vulnerability about which you were not aware at the time, you're going to want to try to confirm that there was no actual interference."
+
+So now, months after the election, the state has launched an investigation into what happened in Durham County. It has secured the poll books that displayed the inaccurate information so forensic teams can examine them.
+
+For his part, county Elections Director Bowens says voters should feel confident that the election was secure and that no vote counts were affected.
+
+The county conducted its own investigation in November and determined that VR Systems' software had not failed. Some poll books had not been updated with the latest software, so they were displaying outdated voter information.
+
+"The conclusion was that it was administrative errors that caused the issues on Election Day," says Bowens.
+
+That may very well turn out to be the case, but the episode has left all parties frustrated.
+
+VR Systems says that it agrees with the county's findings and that the problem was due to human error. Ben Martin, the company's chief operating officer, notes that no other county in the state had problems with VR Systems' poll books on Election Day. He also says the company warned its customers to be on the lookout for the fake emails when it became aware of them right before the election.
+
+It's not clear how widely that information was shared.
+
+Martin also insists that the hackers were unable to break into the company's computers, even though the leaked NSA intelligence report concludes that it's likely they did.
+
+Attorney Allison Riggs warned that the decision to use paper poll books caused the kind of chaos at the polls that many analysts worry is the real motive behind Russia's hacking attempts. Riggs was able to get a court order to extend voting hours in the problem precincts but is worried about officials' future responses to what might just be a minor technical glitch.
+
+"You want to be safe, absolutely," she says. " But you also want to have a measured, appropriate response that doesn't exacerbate the chaos or effect of whatever may be the problem."
+
+State election officials say they would be much better prepared to respond if they have more reliable information. Lawson says federal intelligence officials have still not confirmed to the state that Russians tried to hack into VR Systems' computers or whether North Carolina is one of 21 states that federal officials have publicly revealed were targeted for attack last year.
+
+Matt Masterson, who chairs the U.S. Election Assistance Commission, understands why everyone is frustrated.
+
+"As information has come out in various media reports, election officials, I think fairly, have said, 'Why are we reading about this? Why has no one shared this information with us?' " he says. "Moving forward, that can't be the case. The election officials need to be in the know, need to be receiving this information."
+
+Earlier this year, the Department of Homeland Security declared elections part of the nation's critical infrastructure.
+
+Masterson says state and federal authorities are meeting to trying to figure out exactly what this means in practical terms and how they'll work together sharing intelligence and other information.
+
+Masterson says the goal is to reach some agreements soon because everyone expects the Russian hackers will be back.
+
+In the audio of this story, as well as an earlier Web version, we report that Susan Greenhalgh "knew that in September, the FBI had warned Florida election officials that Russians had tried to hack one of their vendor's computers." Greenhalgh's information was based on several news reports last fall and a discussion she had with one of the local election officials who participated in the call with the FBI. A spokeswoman for the Florida Department of State, which manages elections in the state, says there was "an informational call with the FBI ... where they alerted officials for the need to maintain security measures, but there was no indication of a Florida-specific issue."  
+
+In the audio of this story, as well as an earlier Web version, we report that Susan Greenhalgh "knew that in September, the FBI had warned Florida election officials that Russians had tried to hack one of their vendor's computers." Greenhalgh's information was based on several news reports last fall and a discussion she had with one of the local election officials who participated in the call with the FBI. A spokeswoman for the Florida Department of State, which manages elections in the state, says there was "an informational call with the FBI ... where they alerted officials for the need to maintain security measures, but there was no indication of a Florida-specific issue."  
+

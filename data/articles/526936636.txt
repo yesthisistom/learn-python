@@ -1,0 +1,80 @@
+FBI Director James Comey said this week that he is "mildly nauseous" at the idea that the FBI may have swayed the presidential election results. A new report may ease that nausea, if only a little.
+
+"We would conclude there is at best mixed evidence to suggest that the FBI announcement tipped the scales of the race," wrote a panel of polling experts in a report released Thursday, about the FBI's Oct. 28 announcement that it was investigating new information regarding Hillary Clinton's emails.
+
+The new report, from the American Association for Public Opinion Research, goes far beyond the Comey letter, however. More than a dozen pollsters and public opinion experts worked for months to determine what might have led polls to overestimate Clinton's support. They found that state-level polls were particularly far off from the final election results, leading many forecasters to overestimate Clinton's chances of winning.
+
+In response, the experts called for improvements in state-level polling to ensure that the polling profession doesn't suffer another "black eye" in coming years.
+
+Here's a summary of which polls were off and the reasons for the miss, according to the researchers — as well as factors that, as it turned out, didn't seem to affect things much.
+
+State polls were "historically bad"
+
+By far, more Americans believed Clinton would win than Donald Trump. Ahead of the election, half of Americans thought she would, per one Economist/YouGov poll, compared with only 27 percent who believed it would be Trump. Forecasting models doubtless contributed to that belief for at least some voters. Predictions from some of the most popular models (FiveThirtyEight and the New York Times' Upshot, for example) ranged from giving Clinton a 71 percent to 99 percent chance of winning.
+
+So when she lost, everyone (including NPR) tried to answer the question: Why did polls — and, therefore, forecasting models — so often point to a Clinton win?
+
+First of all, only some polls were off, and it wasn't the national polls. Clinton won the popular vote by 2.1 percentage points, and polls had her winning the popular vote by an average of 3 points. That's not much of a gap at all, compared with past presidential polling.
+
+But state polls were off by an average of 5 points, the largest average since 2000. This is where the researchers drilled down into the whys of what went wrong.
+
+Late deciders in swing states ended up going significantly pro-Trump
+
+Part of the discrepancy between votes and polls was that voters did change their minds late — but it wasn't necessarily because of Comey. The decline in Clinton's support, the report finds, may have begun as early as Oct. 22, whereas Comey's announcement came on Oct. 28. That doesn't disprove that Comey's letter changed things, but it does suggest other factors were depressing Clinton's support at around the same time.
+
+"The question is whether the letter made the decline more severe or somehow prevented her support from rebounding," said Courtney Kennedy, director of survey research at the Pew Research Center and a co-author of the report, at a Thursday event at the National Press Club. "I think that's an important question, but it's not knowable with the data available to us."
+
+Altogether, about 13 percent of voters nationally made up their minds in the final week, according to Pew data reviewed by the researchers. That's in line with past elections. However, in the swing states of Wisconsin, Florida, Michigan and Pennsylvania, those late-deciding voters were far more likely to vote for Trump than for Clinton.
+
+Nationwide, 45 percent of the late-deciding voters ended up voting for Trump, compared with 42 percent for Clinton. But in Michigan, for example, it was 50 percent for Trump and 39 percent for Clinton — and that was the smallest margin of these four states. In Wisconsin, meanwhile, it was 59 percent Trump and 30 percent Clinton.
+
+"If we look back about the campaign events at that time, it was in those states — Wisconsin, Michigan — where you had the campaigns shifting their strategy at the very end of the campaign," Kennedy said.
+
+Critics lambasted Clinton's swing state strategy, saying she did not invest enough time or manpower in places like Wisconsin and Michigan, particularly in the final days of campaigning.
+
+Voters' education was another area that seemed to throw pollsters off. Voting patterns by education ended up being far different from what they had been in 2012.
+
+In particular, the authors point out, the data show a U-shape in 2012 — people with high school diplomas only and postgrad degrees tended to vote more Democratic that year, while people in the middle (with college degrees or some college) were less Democratic. In 2016, it was more linear: The lowest-educated people were relatively more likely to vote for Trump.
+
+Among higher-educated groups, people were more likely to vote for Clinton, with postgraduates by far the most likely to vote for her.
+
+The problem is that pollsters didn't account for that, Kennedy said. Survey researchers do know that higher-educated people are more likely to participate in surveys. However, not all surveys factor that in.
+
+"In 2016, that mattered," she said. "Some elections you might get by without adjusting on education, but in 2016, you had to adjust on education."
+
+One final factor that could have thrown polls off is turnout. Turnout patterns clearly boosted Trump. The counties where President Obama performed worst in 2012 had higher turnout increases, while the counties that highly favored him had lower turnout increases, as the report points out.
+
+The question is whether that different kind of turnout pattern threw off how pollsters adjusted their results. That seems plausible, said one researcher.
+
+"To the extent that pollsters relied on 2012 as a model for the electorate either demographically or otherwise, there's the potential that that introduced error," said Mark Blumenthal, head of election polling for SurveyMonkey and one of the report's authors, at Thursday's event. "For that reason, our conclusion is that turnout probably was one of the two or three things that introduced error into this process; it's just very difficult for us to to quantify it. It's kind of an incomplete. It's a story that's not completely told."
+
+What probably didn't affect the polls (much)
+
+"Shy Trump voters" came up a lot in the run-up to the election, referring to the worry that Trump voters were reluctant to tell a live pollster that they supported him.
+
+That doesn't appear to be true.
+
+"The committee tested that hypothesis in five different ways," said Kennedy. "And each test yielded either no evidence whatsoever to support that hypothesis or weak evidence."
+
+If there were this "shy Trump voter" effect, the authors wrote, there should be some sort of evidence that robopolls (that is, automated phone polls) and Internet polls consistently showed Trump doing better than the phone polls, for example. That didn't happen. Robopolls did tend to show Trump with better support than in live-phone polls, but Internet-only polls tended to show him doing worse.
+
+One other issue that didn't seem to matter much was "nonresponse bias." This is the idea that certain groups will respond to polls more often than others, thus biasing the results. There's a reason survey researchers worry about this: People participate in phone polls far less often than they did in the past.
+
+As explained above, some groups (like less educated Americans) often participate in polls less than others. But when the researchers broke this down by geography, they did not find that pro-Trump areas were any less likely to be represented, on average, than pro-Clinton areas. Furthermore, they didn't find that the relatively correct national polls were right just because Clinton- and Trump-favoring polls nationwide canceled each other out.
+
+What now?
+
+Though many 2016 polls were indeed off, the authors hope it won't sour Americans on polling altogether. "The difficulties for election polls in 2016 are not an indictment on all of survey research or even all of polling," the report said.
+
+They also voiced some anger about the fact that a few bad polls can make all pollsters look bad.
+
+"It is a persistent frustration within polling and the larger survey research community that the profession is judged based on how these often under-budgeted state polls perform relative to the election outcome," they wrote.
+
+For that reason, they propose a greater investment in state-level polling: "Well-resourced survey organizations might have enough common interest in financing some high quality state-level polls so as to reduce the likelihood of another black eye for the profession."
+
+And one more thing: The researchers wag a collective finger at election forecasters, saying that "they helped crystalize the belief that Clinton was a shoo-in for president, with unknown consequences for turnout."
+
+What to do about that is unclear — even some of the people producing those forecasts advised caution. The pollsters even point to a quote from FiveThirtyEight's Nate Silver in this regard.
+
+"It's irresponsible to blame the polls for the overconfidence in Clinton's chances," he said. "They showed a competitive, uncertain race."
+
